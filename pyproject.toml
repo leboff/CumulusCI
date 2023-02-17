@@ -47,7 +47,7 @@ dependencies = [
     "robotframework-lint",
     "robotframework-pabot",
     "robotframework-requests",
-    "robotframework-seleniumlibrary<6",
+    "robotframework-seleniumlibrary<7",
     "rst2ansi",
     "salesforce-bulk",
     "sarge",
