@@ -31,7 +31,7 @@ dependencies = [
     "fs",
     "github3.py",
     "jinja2",
-    "keyring<=23.0.1",
+    "keyring<23.13.2",
     "defusedxml",
     "lxml",
     "MarkupSafe",
