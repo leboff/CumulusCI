@@ -160,7 +160,7 @@ six==1.16.0
     #   snowfakery
 snowfakery==3.5.0
     # via cumulusci (pyproject.toml)
-sqlalchemy==1.4.46
+sqlalchemy==2.0.4
     # via
     #   cumulusci (pyproject.toml)
     #   snowfakery
