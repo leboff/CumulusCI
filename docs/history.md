@@ -2,13 +2,74 @@
 
 <!-- latest-start -->
 
+## v3.90.0 (2024-07-15)
+
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
+## What's Changed
+
+### Changes 🎉
+
+-   Add tasks to extract and upload files (Salesforce Files) by [@mjawadtp](https://github.com/mjawadtp) in [#3801](https://github.com/SFDO-Tooling/CumulusCI/pull/3801)
+-   Update the validation for loading to check the required fields as well by [@lakshmi2506](https://github.com/lakshmi2506) in [#3807](https://github.com/SFDO-Tooling/CumulusCI/pull/3807)
+
+**Full Changelog**: https://github.com/SFDO-Tooling/CumulusCI/compare/v3.89.0...v3.90.0
+
+<!-- latest-stop -->
+
+## v3.89.0 (2024-06-20)
+
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
+## What's Changed
+
+### Changes 🎉
+
+-   Added the `list_files` task to display files in an org by [@lakshmi2506](https://github.com/lakshmi2506) in [#3799](https://github.com/SFDO-Tooling/CumulusCI/pull/3799)
+-   The `api_names` option of the `assign_permission_set_licenses` task now accepts either `DeveloperName` or `PermissionSetLicenseKey` by [@lakshmi2506](https://github.com/lakshmi2506) in [#3798](https://github.com/SFDO-Tooling/CumulusCI/pull/3798)
+
+## v3.88.0 (2024-05-24)
+
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
+## What's Changed
+
+### Changes 🎉
+
+-   Extend modal close wait with custom timeout by [@leboff](https://github.com/leboff) in [#3783](https://github.com/SFDO-Tooling/CumulusCI/pull/3783)
+-   Added check_output true to get the logs of metadata retrieval by [@lakshmi2506](https://github.com/lakshmi2506) in [#3789](https://github.com/SFDO-Tooling/CumulusCI/pull/3789)
+
+### Issues Fixed 🩴
+
+-   Fix retrieve unpackaged so it is usable in metadeploy by [@yippie](https://github.com/yippie) in [#3566](https://github.com/SFDO-Tooling/CumulusCI/pull/3566)
+
+## New Contributors
+
+-   @yippie made their first contribution in [#3566](https://github.com/SFDO-Tooling/CumulusCI/pull/3566)
+
+**Full Changelog**: https://github.com/SFDO-Tooling/CumulusCI/compare/v3.87.0...v3.88.0
+
+## v3.87.0 (2024-05-17)
+
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
+## What's Changed
+
+### Changes 🎉
+
+-   Don't add fullname tag in 2GP package.xml by [@leboff](https://github.com/leboff) in [#3748](https://github.com/SFDO-Tooling/CumulusCI/pull/3748)
+
+## New Contributors
+
+-   @leboff made their first contribution in [#3748](https://github.com/SFDO-Tooling/CumulusCI/pull/3748)
+
+**Full Changelog**: https://github.com/SFDO-Tooling/CumulusCI/compare/v3.86.1...v3.87.0
+
 ## v3.86.1 (2024-05-06)
 
 <!-- Release notes generated using configuration in .github/release.yml at main -->
 
 **Full Changelog**: https://github.com/SFDO-Tooling/CumulusCI/compare/v3.86.0...v3.86.1
-
-<!-- latest-stop -->
 
 ## v3.86.0 (2024-03-27)
 
