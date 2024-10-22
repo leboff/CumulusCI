@@ -2,6 +2,67 @@
 
 <!-- latest-start -->
 
+## v3.93.0 (2024-10-17)
+
+<!-- Release notes generated using configuration in .github/release.yml at main  -->
+
+## What's Changed
+
+### Changes 🎉
+
+-   fix: escape stage name when running ensure_record_type task by [@leo-dcfa](https://github.com/leo-dcfa) in [#3827](https://github.com/SFDO-Tooling/CumulusCI/pull/3827)
+-   fix: Upgrade upload-artifact action by [@jstvz](https://github.com/jstvz) in [#3831](https://github.com/SFDO-Tooling/CumulusCI/pull/3831)
+-   Fix `TypeError` when permissionSetGroup has a mutingPermissionSet by [@lakshmi2506](https://github.com/lakshmi2506) in [#3834](https://github.com/SFDO-Tooling/CumulusCI/pull/3834)
+-   Add `check_components` preflight to detect metadata component conflicts (#3837) by [@vsbharath](https://github.com/vsbharath) in [#3837](https://github.com/SFDO-Tooling/CumulusCI/pull/3837)
+
+## New Contributors
+
+-   @leo-dcfa made their first contribution in [#3827](https://github.com/SFDO-Tooling/CumulusCI/pull/3827)
+
+**Full Changelog**: https://github.com/SFDO-Tooling/CumulusCI/compare/v3.92.0...v3.93.0
+
+<!-- latest-stop -->
+
+## v3.92.0 (2024-09-18)
+
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
+## What's Changed
+
+### Changes 🎉
+
+-   fix: Update input handlers with new Salesforce lightning-primitive tags by [@chanyahn-st](https://github.com/chanyahn-st) in [#3822](https://github.com/SFDO-Tooling/CumulusCI/pull/3822)
+
+## New Contributors
+
+-   @chanyahn-st made their first contribution in [#3822](https://github.com/SFDO-Tooling/CumulusCI/pull/3822)
+
+**Full Changelog**: https://github.com/SFDO-Tooling/CumulusCI/compare/v3.91.0...v3.92.0
+
+## v3.91.0 (2024-08-22)
+
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
+## What's Changed
+
+### Changes 🎉
+
+-   Fix to Include All Keys in standardValue XML for add_standard_value_set_entries Task from Entries Option with Backward Compatibility by [@lakshmi2506](https://github.com/lakshmi2506) in [#3820](https://github.com/SFDO-Tooling/CumulusCI/pull/3820)
+
+**Full Changelog**: https://github.com/SFDO-Tooling/CumulusCI/compare/v3.90.1...v3.91.0
+
+## v3.90.1 (2024-08-20)
+
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
+## What's Changed
+
+### Changes 🎉
+
+-   Fix to Suppress the required field check for the upsert action at mapping step by [@lakshmi2506](https://github.com/lakshmi2506) in [#3817](https://github.com/SFDO-Tooling/CumulusCI/pull/3817)
+
+**Full Changelog**: https://github.com/SFDO-Tooling/CumulusCI/compare/v3.90.0...v3.90.1
+
 ## v3.90.0 (2024-07-15)
 
 <!-- Release notes generated using configuration in .github/release.yml at main -->
@@ -14,8 +75,6 @@
 -   Update the validation for loading to check the required fields as well by [@lakshmi2506](https://github.com/lakshmi2506) in [#3807](https://github.com/SFDO-Tooling/CumulusCI/pull/3807)
 
 **Full Changelog**: https://github.com/SFDO-Tooling/CumulusCI/compare/v3.89.0...v3.90.0
-
-<!-- latest-stop -->
 
 ## v3.89.0 (2024-06-20)
 
