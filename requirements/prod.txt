@@ -149,7 +149,7 @@ sarge==0.1.7.post1
     # via cumulusci (pyproject.toml)
 secretstorage==3.3.3
     # via keyring
-selenium==3.141.0
+selenium==4.8.1
     # via
     #   cumulusci (pyproject.toml)
     #   robotframework-seleniumlibrary
