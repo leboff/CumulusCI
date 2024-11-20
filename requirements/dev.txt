@@ -80,7 +80,7 @@ filelock==3.15.4
     # via
     #   tox
     #   virtualenv
-flake8==3.9.2
+flake8==6.0.0
     # via cumulusci (pyproject.toml)
 fs==2.4.16
     # via cumulusci (pyproject.toml)
